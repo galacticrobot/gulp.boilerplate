@@ -1,0 +1,25 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+doc
+
+## Node Modules
+npm-debug.log
+node_modules
+
+## Sass related
+.sass-cache
+*.css
+
+## sublime stuff
+*.sublime-project
+*.sublime-workspace
