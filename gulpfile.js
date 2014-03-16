@@ -1,3 +1,4 @@
+// Heavily borrowed/stolen from https://gist.github.com/samuelhorn, but modified to my liking.
 /*******************************************************************************
 1. DEPENDENCIES
 *******************************************************************************/
